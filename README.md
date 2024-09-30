@@ -1,3 +1,11 @@
-# Algorithms & Data Structures
+# Algorithms & Data Structures for Data Science
 
-This file has been produced during the course of Algorithms and Data Structure for data science and contains exercises and simultations. The aim of the work was to allow a depper understanding of the main data structure used in python. The idea was to personalise existing libraries and off the shelves solutions to empirically get how a data structure works and how it may be optimized in order to deal with specific problems. The code provides solutions about sorting problems, searching problmes, hashing, dictionary, heap, binary tree and graphs. 
+### University of Pisa 2023/2024
+This repository contains the code developed during the Algorithms & Data Structures for Data Science course. The focus of the course was on implementing classic algorithms and understanding how Python's data structures work under the hood. The code covers:
+
+- Implementation of well-known sorting algorithms, search algorithms, and graph algorithms.
+- Exercises aimed at deepening the understanding of Python’s data structures and their methods.
+After implementing algorithms from scratch, I applied them to solve specific problems with time complexity constraints, gaining hands-on experience in performance optimization.
+
+## Key Takeaways:
+While Python provides highly efficient, off-the-shelf solutions for most common problems, implementing these structures and algorithms manually offers valuable insights. Understanding how they work enables a deeper comprehension of how to optimize and speed up your code in real-world applications.
